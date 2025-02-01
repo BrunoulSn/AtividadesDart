@@ -34,10 +34,6 @@ Clone este repositório:
 
 git clone https://github.com/BrunoulSn/AtividadesDart.git
 
-Acesse uma das pastas de atividade:
-
-cd AtividadesDart/atividades
-
 Rode o projeto com:
 
 dart ./atividades
