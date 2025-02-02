@@ -111,16 +111,6 @@ print("Bem vindo $nome");
     print('O ano $ano não é bissexto');
   }
 
-  // A seguir serão feitas atividades incluindo switch case
 
-// 1. Crie um programa que receba um número de 1 a 7 e exiba o dia da semana correspondente.
-// 2. Faça um programa que identifique o mês com base em um número de 1 a 12.
-//3. Escreva um programa que receba uma letra e diga se é uma vogal ou consoante usando switch.
-// 4. Receba uma nota (A, B, C, etc.) e mostre a descrição de desempenho correspondente.
-// 5. Crie um sistema que simule o menu de um restaurante, com diferentes opções.
-// 6. Escreva um programa que converta números de 1 a 5 para números romanos.
-// 7. Faça um programa que identifique o tipo de triângulo com base em uma entrada de texto.
-// 8. Use um switch para implementar uma calculadora com operações básicas (+, -, *, /).
-// 9. Receba um código de produto e exiba seu preço.
-// 10. Crie um programa que avalie uma nota de prova e diga se o aluno está aprovado, em recuperação ou reprovado (Aprovado: 7+).
+
 }
